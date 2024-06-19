@@ -12,7 +12,7 @@
 
 Este é um projeto de site para petshop desenvolvido em HTML, CSS e JavaScript. O site inclui um slideshow e é responsivo para dispositivos móveis. O objetivo é proporcionar uma experiência amigável e acessível para os usuários, oferecendo uma variedade de produtos e serviços para pets, além de promover campanhas de adoção.
 
-![PetShop](data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEAAAAAAAD/2wCEAAkGBxISEhUTExMWFhUVFRUVFRYVFRUVFRUVFRUWFxUVFRUYHSggGBolHRUVITEhJSkrLi4uFx8zODMtNygtLisBCgoKDg0OGxAQGy0lICYtLS8tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLf/AABEIALcBEwMBIgACEQEDEQH/xAAcAAACAgMBAQAAAAAAAAAAAAAEBQMGAAIHAQj/xABGEAACAQIEAwUEBQgDBAMAAAABAhEAAwQSITEFBkETIlFhcYGRBzKhsfAUIyQzUnKSwfEVFiRjorLxFRYkNEPC0hZTssLD/8QAGwEBAAIDAQEAAAAAAAAAAAAAAAIDBAEFBgf/xAA6EQABAwIEAwYEBQQDAAAAAAAAAQIRAwQSMUFRBGEiYXGx8BMUUqGxwdHwB0JS4RMkM3L/2gAMAwEAAhEDEQA/APutREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERA//Z)
+![PetShop](image.jpg)
 
 ## Funcionalidades
 
