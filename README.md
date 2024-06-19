@@ -1,13 +1,5 @@
 # PETSHOP
 
-## Integrantes do Grupo
-
-- Arthur Abonizio – 555506
-- Enzo Dias - 558225
-- Gustavo Henrique – 556712
-- Milena Garcia – 555111
-- Steffany Medeiros – 556262
-
 ## Descrição do Projeto
 
 Este é um projeto de site para petshop desenvolvido em HTML, CSS e JavaScript. O site inclui um slideshow e é responsivo para dispositivos móveis. O objetivo é proporcionar uma experiência amigável e acessível para os usuários, oferecendo uma variedade de produtos e serviços para pets, além de promover campanhas de adoção.
